@@ -1,2 +1,2 @@
-# LHM_GIT
+# GIT
 GIT
